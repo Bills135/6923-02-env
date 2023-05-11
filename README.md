@@ -29,3 +29,21 @@
   conda create --name p01 python=3.7.6  
   pip install -r p01.env  
  
+============================================   
+
+由於學生朝向醫療方向在學習 ，因此擬定三篇論文做測試  
+1.  
+JCS: An Explainable COVID-19 Diagnosis System by Joint Classification and Segmentation(2020)  
+https://ieeexplore.ieee.org/document/9357961  
+Code : https://github.com/yuhuan-wu/JCS  
+
+2.  
+Inf-Net: Automatic COVID-19 Lung Infection Segmentation from CT Images (2020)  
+https://arxiv.org/abs/2004.14133  
+Code : https://github.com/DengPingFan/Inf-Net/pulls  
+
+3.  
+ECG Heartbeat Classification: A Deep Transferable Representation (2018)  
+https://ieeexplore.ieee.org/document/8419425  
+2018 IEEE International Conference on Healthcare Informatics (ICHI)  
+Code : https://paperswithcode.com/paper/ecg-heartbeat-classification-a-deep  
