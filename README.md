@@ -13,18 +13,18 @@
 |torchaudio         	|0.13.1|
 |torchvision        	|0.14.1|
 
-1.MSI PS63 NB / Windows 10 22H2  
-python                    		3.7.12          	h900ac77_100_cpython    	conda-forge
-pytorch                   		1.13.1              	py3.7_cpu_0    		pytorch
-pytorch-mutex             	1.0                         	cpu    			pytorch
-torchvision               		0.13.1
-pip install torch==1.13.0 torchvision -f https://download.pytorch.org/whl/torch_stable.html
+|1.MSI PS63 NB / Windows 10 22H2  										|
+|python                    		|3.7.12          	|h900ac77_100_cpython   |conda-forge		|
+|pytorch                   		|1.13.1              	|py3.7_cpu_0    	|pytorch		|
+|pytorch-mutex             		|1.0                    |cpu    		|pytorch		|
+|torchvision               		|0.13.1			|			|			|
+|pip install torch==1.13.0 torchvision -f https://download.pytorch.org/whl/torch_stable.html			|
 
 tensorflow                		2.11.0                  	pypi_0    	pypi
-tensorflow-estimator      	2.0.1                    	pypi_0    	pypi
-tensorflow-gpu            	2.0.0                    	pypi_0    	pypi
-tensorflow-intel          	2.11.0                  	pypi_0    	pypi
-tensorflow-io-gcs-filesystem 	0.31.0                  	pypi_0    	pypi
+tensorflow-estimator      		2.0.1                    	pypi_0    	pypi
+tensorflow-gpu            		2.0.0                    	pypi_0    	pypi
+tensorflow-intel          		2.11.0                  	pypi_0    	pypi
+tensorflow-io-gcs-filesystem 		0.31.0                  	pypi_0    	pypi
 conda create --name gpu tensorflow-gpu=2.0.0 python=3.7.12
 
 nvcc: NVIDIA (R) Cuda compiler driver
