@@ -3,13 +3,15 @@
 全部環境已 miniconda3 來做跨平台轉移
 |		|pc				|nb				|LinuxServer|
 |---------------|:-----------------------------:|:-----------------------------:|:---------------------------:|
-|p01		|torch 1.13/0.13.1/0.14.1	|torch 1.13/0.13.1/0.14.1	|torch 1.13/0.13.1/0.14.1|
-|p04		|torch 1.13/0.13.1/0.14.1	|torch 1.13/0.13.1/0.14.1	|torch 1.13/0.13.1/0.14.1|
-|p27		|tensorflow-gpu=2.11.0		|tensorflow-gpu=2.6.0		|tensorflow-gpu=2.6.0|
+|6923-03-JCS	|torch 1.13/0.13.1/0.14.1	|torch 1.13/0.13.1/0.14.1	|torch 1.13/0.13.1/0.14.1|
+|6923-04-Inf-net	|torch 1.13/0.13.1/0.14.1	|torch 1.13/0.13.1/0.14.1	|torch 1.13/0.13.1/0.14.1|
+|6923-05-ECG	|tensorflow-gpu=2.11.0		|tensorflow-gpu=2.6.0		|tensorflow-gpu=2.6.0|
 
-torch              	1.13.1
-torchaudio         	0.13.1
-torchvision        	0.14.1
+|pytorch		|Version|
+|-----------------------|--------|
+|torch              	|1.13.1|
+|torchaudio         	|0.13.1|
+|torchvision        	|0.14.1|
 
 1.MSI PS63 NB / Windows 10 22H2  
 python                    		3.7.12          	h900ac77_100_cpython    	conda-forge
