@@ -14,6 +14,7 @@
 |torchvision        	|0.14.1|
 
 |1.MSI PS63 NB / Windows 10 22H2  										|
+|---------------------------------------|-----------------------|-----------------------|-----------------------|
 |python                    		|3.7.12          	|h900ac77_100_cpython   |conda-forge		|
 |pytorch                   		|1.13.1              	|py3.7_cpu_0    	|pytorch		|
 |pytorch-mutex             		|1.0                    |cpu    		|pytorch		|
